@@ -320,7 +320,7 @@ void roominfo()
         printf("\n\n**Invalid Room Number**\n\n");
 }
 
-void del()
+void del() //to delete the function
 {
     int h,l;
     fflush(stdin);
